@@ -1,0 +1,9 @@
+C:\Users\Pat\Music\Ye Grande Adventure\Ye Grande Adventure\bin\Debug\Ye Grande Adventure.exe.config
+C:\Users\Pat\Music\Ye Grande Adventure\Ye Grande Adventure\bin\Debug\Ye Grande Adventure.exe
+C:\Users\Pat\Music\Ye Grande Adventure\Ye Grande Adventure\bin\Debug\Ye Grande Adventure.pdb
+C:\Users\Pat\Music\Ye Grande Adventure\Ye Grande Adventure\obj\Debug\Ye Grande Adventure.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Music\Ye Grande Adventure\Ye Grande Adventure\obj\Debug\Ye Grande Adventure.exe
+C:\Users\Pat\Music\Ye Grande Adventure\Ye Grande Adventure\obj\Debug\Ye Grande Adventure.pdb
+C:\Users\Pat\Desktop\Semester 3 stuff\Ye Grande Adventure\Ye Grande Adventure\bin\Debug\Ye Grande Adventure.exe.config
+C:\Users\Pat\Desktop\Semester 3 stuff\Ye Grande Adventure\Ye Grande Adventure\obj\Debug\Ye Grande Adventure.exe
+C:\Users\Pat\Desktop\Semester 3 stuff\Ye Grande Adventure\Ye Grande Adventure\obj\Debug\Ye Grande Adventure.pdb
